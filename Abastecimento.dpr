@@ -15,6 +15,5 @@ begin
   Application.CreateForm(TfrmPrincipal, frmPrincipal);
   Application.CreateForm(TfrmPtoAbastecimento, frmPtoAbastecimento);
   Application.CreateForm(TfrmOrdAbastecimento, frmOrdAbastecimento);
-  Application.CreateForm(TdmConexao, dmConexao);
   Application.Run;
 end.

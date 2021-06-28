@@ -25,7 +25,6 @@ object frmPtoAbastecimento: TfrmPtoAbastecimento
     Height = 44
     Align = alBottom
     TabOrder = 0
-    ExplicitTop = 419
     object btnGravar: TSpeedButton
       Left = 573
       Top = 6

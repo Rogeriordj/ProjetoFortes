@@ -11,7 +11,6 @@ object dmConexao: TdmConexao
       'Server=127.0.0.1'
       'Port=3050'
       'DriverID=IB')
-    Connected = True
     Left = 104
     Top = 40
   end

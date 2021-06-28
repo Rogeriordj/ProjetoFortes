@@ -90,8 +90,8 @@ begin
   if qryPonto.Active then
     qryPonto.Open();
   qryponto.Edit;
-  dbeNome.SetFocus;
   Controle;
+  dbeNome.SetFocus;
 end;
 
 procedure TfrmPtoAbastecimento.btnCancelarClick(Sender: TObject);
@@ -119,8 +119,8 @@ begin
   qryPonto.Close;
   qryPonto.Open();
   qryPonto.Insert;
-  dbeNome.SetFocus;
   Controle;
+  dbeNome.SetFocus;
 end;
 
 procedure TfrmPtoAbastecimento.Controle;

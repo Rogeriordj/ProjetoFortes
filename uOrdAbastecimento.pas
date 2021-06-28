@@ -253,8 +253,8 @@ begin
   qryOrdem.Close;
   qryOrdem.Open();
   qryOrdem.Insert;
-  DBEdit1.SetFocus;
   Controle;
+  DBEdit1.SetFocus;
 end;
 
 procedure TfrmOrdAbastecimento.Calculo;
