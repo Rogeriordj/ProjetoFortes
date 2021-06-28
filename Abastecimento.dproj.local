@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/06/26 07:37:32.000.333,=C:\Users\Casa\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/06/26 07:44:43.000.368,C:\Users\Casa\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Projeto Fortes\uPrincipal.dfm</Transaction>
+    <Transaction>2021/06/26 07:44:43.000.368,C:\Users\Casa\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Projeto Fortes\uPrincipal.pas</Transaction>
+    <Transaction>2021/06/26 07:46:14.000.969,C:\Users\Casa\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Projeto Fortes\Abastecimento.dproj</Transaction>
+    <Transaction>2021/06/26 07:46:39.000.386,=C:\Projeto Fortes\Unit1.pas</Transaction>
+    <Transaction>2021/06/26 07:47:39.000.637,=C:\Projeto Fortes\Unit2.pas</Transaction>
+    <Transaction>2021/06/27 08:05:00.000.962,C:\Projeto Fortes\Unit1.pas=C:\Projeto Fortes\uPtoAbastecimento.pas</Transaction>
+    <Transaction>2021/06/27 08:05:00.000.962,C:\Projeto Fortes\Unit1.dfm=C:\Projeto Fortes\uPtoAbastecimento.dfm</Transaction>
+    <Transaction>2021/06/27 08:05:26.000.927,C:\Projeto Fortes\Unit2.pas=C:\Projeto Fortes\dmdAbastecimento.pas</Transaction>
+    <Transaction>2021/06/27 08:05:26.000.927,C:\Projeto Fortes\Unit2.dfm=C:\Projeto Fortes\dmdAbastecimento.dfm</Transaction>
+    <Transaction>2021/06/27 16:21:27.000.327,=C:\Projeto Fortes\Unit1.pas</Transaction>
+    <Transaction>2021/06/27 16:22:00.000.940,C:\Projeto Fortes\Unit1.dfm=C:\Projeto Fortes\uOrdAbastecimento.dfm</Transaction>
+    <Transaction>2021/06/27 16:22:00.000.940,C:\Projeto Fortes\Unit1.pas=C:\Projeto Fortes\uOrdAbastecimento.pas</Transaction>
+    <Transaction>2021/06/27 18:06:30.000.822,C:\Projeto Fortes\dmdAbastecimento.pas=</Transaction>
+    <Transaction>2021/06/27 18:06:46.000.395,=C:\Projeto Fortes\Unit1.pas</Transaction>
+    <Transaction>2021/06/27 18:07:52.000.422,C:\Projeto Fortes\Unit1.dfm=C:\Projeto Fortes\uConexao.dfm</Transaction>
+    <Transaction>2021/06/27 18:07:52.000.422,C:\Projeto Fortes\Unit1.pas=C:\Projeto Fortes\uConexao.pas</Transaction>
+  </Transactions>
+</BorlandProject>
